@@ -1,0 +1,13 @@
+1.	if
+2.	else
+3.	void
+4.	int
+5.	break
+6.	return
+7.	while
+8.	power
+9.	base
+10.	exponent
+11.	result1Power
+12.	main
+13.	x
